@@ -25,17 +25,6 @@ A custom retro-modern Pacman-style web game themed around the **University of Wa
   - On-screen touch Virtual D-Pad (`▲`, `◀`, `▶`, `▼`)
   - Touch swipe gestures
 
-## 🚀 How to Run Locally
-
-Open `index.html` directly in any modern browser, or run a local static server:
-
-```bash
-# Python
-python -m http.server 8000
-
-# Node.js
-npx serve
-```
 
 Then visit `http://localhost:8000` in your web browser.
 
