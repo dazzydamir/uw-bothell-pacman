@@ -1,15 +1,13 @@
 # UW Bothell Pacman (Husky Chase) 🐾
 
-A custom retro-modern Pacman-style web game themed around the **University of Washington Bothell (UWB)** campus.
-
-Help the UWB Husky navigate the campus maze, earn academic credits to graduate, grab coffee at the library cafe to temporarily snooze deadlines, and avoid academic pressures!
+A custom retro-modern Pacman-style web game themed around the **University of Washington Bothell (UWB)** campus. Help the UWB Husky navigate the campus maze, earn academic credits to graduate, grab coffee at the library cafe to temporarily snooze deadlines, and avoid academic pressures!
 
 ## 🎮 Features
 
 - **Mascot & Animations**: Custom HTML5 Canvas-rendered Husky player character that rotates and chomps towards the direction of movement.
 - **Academic Pressure Obstacles (Ghosts)**:
   - 🔴 **DUE!** (Deadline) - Direct chaser.
-  - 🌸 **EXAM** (Exam) - Intercepts the Husky's trajectory.
+  - 🌸 **EXAM** (Exam) - Cuts the Husky's trajectory.
   - 🔷 **BILL** (Tuition Bill) - Flanks from opposing angles.
   - 🟡 **HOLD** (Registration Hold) - Shy corner patrol that retreats when approached.
 - **UWB Theme**: Official UW purple (`#4b2e83`) and metallic gold (`#85754d`) with soft beige undertones and glassmorphism styling.
